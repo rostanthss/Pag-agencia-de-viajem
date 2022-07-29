@@ -1,0 +1,41 @@
+body{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #BFBFBF;
+}
+
+#principal{
+    border: 5px solid #BFBFBF  ;
+    width: 900px;
+    
+}
+
+#menu{
+   
+   
+    background-color: #8AA6A3;
+    font-size: 22px;
+    color: #4C5958;
+    
+    padding: 15px;
+}
+
+.corpo{
+    background-color: white;
+    text-align: justify;
+}
+
+h1{
+   color: #4C5958;
+}
+
+a{
+    color: #4C5958;
+    text-decoration: none;
+    padding: 8px;
+}
+
+h2{
+    color: #4C5958;
+    text-align: center;
+}
